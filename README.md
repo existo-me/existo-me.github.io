@@ -1,4 +1,6 @@
-## :taurus: Project Taurus (April 20 – May 20) : &nbsp; [Political Spectrum Test](https://existo-me.github.io/)
+## https://existo-me.github.io/
+
+<p align="right">:taurus: Project Taurus: April 20 – May 20</p>
 
 GitHub Pages for hosting the website Existo.me with the Political Spectrum Test. This is a static website, made with HTML5, CSS3 and ES6. The following list presents other software used in the development of the website:
 

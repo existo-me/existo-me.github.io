@@ -1,4 +1,4 @@
-## https://existo-me.github.io/
+## https://Existo-me.github.io/
 
 <p align="right">:one: Project One: April/2022 – ...</p>
 
